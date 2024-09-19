@@ -1,0 +1,32 @@
+Installation:
+
+First, install python - https://www.python.org/downloads/ in the installer, be sure to check ADD PATH.
+
+ download the script - https://github.com/IsNaRm/dolphin-free-botsforge
+​
+
+unpack, go to the console, enter the folder path and type - pip install -r requirements.txt
+​
+
+
+go to the browsers folder and copy the file - app.asar
+​
+
+Click on Dolphin Anty - file location - resources folder and paste the copied file with replacement
+​
+
+Go back to the folder with the software and run - start.bat if you see it, it means the software is running and working
+​
+If the console closes, it means that the libraries are not installed.
+
+Start Dolphin Anty and see this inscription at the bottom, which means that everything is installed and working.
+​
+IMPORTANT
+
+Create 10 profiles, close the console, go to Dolphin and delete all profiles (they will remain in the software), run start.bat, go back to Dolphin and create 10 more profiles and repeat as many as you need.
+
+
+Possible problems
+
+if your START button is grayed out.
+You need to move and unzip the file to C:\Users{username} /AppData / Roaming / Dolphin_anty / Browser.
